@@ -53,7 +53,7 @@ This toolkit includes DEV dataset with 1000 labelled images.
 DEV dataset could be used for development and testing of adversarial attacks
 and defenses.
 
-Details about dataset are [here](../dataset/README.md).
+Details about dataset are [here](./dataset/README.md).
 
 ## Sample attacks and defenses
 
