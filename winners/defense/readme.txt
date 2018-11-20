@@ -1,0 +1,1 @@
+This folder save codes for Defense sub-competition
