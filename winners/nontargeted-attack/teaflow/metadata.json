@@ -1,0 +1,6 @@
+{
+  "type": "attack",
+  "container": "tinymind/tensorflow:1.2-py27-cpu",
+  "container_gpu": "tinymind/tensorflow:1.2-py27-gpu",
+  "entry_point": "run_attack.sh"
+}
